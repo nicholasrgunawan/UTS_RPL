@@ -17,7 +17,6 @@ if(isset($_POST['submit'])) {
         echo "Failed: " . mysqli_error($conn);
     }
     }
-
 ?>
 
 <!doctype html>

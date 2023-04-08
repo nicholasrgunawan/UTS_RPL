@@ -22,7 +22,6 @@
         }
         ?>
         <a href="add_category.php" class="btn btn-dark mb-3"><i class="fa-solid fa-plus fs-5 text-center"></i></a>
-    
     <table class="table table-hover text-center" style="background-color: white;">
         <thead class="table-dark">
             <tr>
