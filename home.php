@@ -29,8 +29,6 @@ if(isset($_GET['logout'])){
 
 </head>
 <body>
-<?php include 'navbar_home.php'?>
-
 <div class="container">
    <div class="profile">
    <h3 class="text-center mb-3">Welcome Back!</h3>
